@@ -1,0 +1,8 @@
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\bin\Debug\DateTime.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\bin\Debug\DateTime.exe
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\bin\Debug\DateTime.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\obj\Debug\DateTime.exe
+D:\GitHub\Basic-C-Sharp-Projects\Date Time\DateTime\obj\Debug\DateTime.pdb

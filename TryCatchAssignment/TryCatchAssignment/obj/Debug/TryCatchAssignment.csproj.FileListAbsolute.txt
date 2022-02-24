@@ -1,0 +1,7 @@
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
